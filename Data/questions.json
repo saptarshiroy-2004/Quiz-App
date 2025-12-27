@@ -1,0 +1,22 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "What is the capital of West Bengal?",
+      "options": ["Delhi", "Mumbai", "Kolkata", "Chennai"],
+      "answer": "Kolkata"
+    },
+    {
+      "id": 2,
+      "question": "Which language is primarily used for Data Science?",
+      "options": ["C", "Java", "Python", "HTML"],
+      "answer": "Python"
+    },
+    {
+      "id": 3,
+      "question": "Who is known as the father of computers?",
+      "options": ["Alan Turing", "Charles Babbage", "Bill Gates", "Steve Jobs"],
+      "answer": "Charles Babbage"
+    }
+  ]
+}
